@@ -1,0 +1,9 @@
+trained_extraction_model_03/
+.venv/
+build/
+dist/
+
+
+taide_app.spec
+taide_records.db
+TAIDE記事本演示.mp4
